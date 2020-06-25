@@ -1,4 +1,4 @@
-# This is a journal for my 100DaysOfX Challenges
+# This is a journal for my challenges in the format of XDaysOfX
 
 I update the progress of the challenges that I commit to in this repository.
 
