@@ -32,3 +32,10 @@ I'm committing this round to do the [FreeCodeCamp.org Full-Stack Certification](
 **Today's progress:** I completed the lesson from yesterday and two more: the "Applied Accessibility" lesson and the "Responsive Web Design Principles" lesson. Today I learned how to set CSS animations to stop at the end and not reset with animation-fill-mode; One could also use the transition CSS rule. I understand now how the timing functions work: ease, ease-in, ease-out and finally got to review how the cubic-bezier point system works. [This online tool](https://cubic-bezier.com/#.17,.67,.83,.67) is great to see that in action. I learned about the time tag and how helpful it is for assistive technologies. I will use colorblindness tools and contrast ratio tools to build websites that help visually impaired people understand better its contents. Writing click me or see more as links isn't helpful to people who use screen readers and jump right to the links to find out what's in the web site. One needs to be descriptive when creating links. An easy way to add shortcuts to the webpage is to use the accesskey attribute. I also learned what's the maximum height and width of an image should not be more than half of its original size so that it doesn't get pixilated in high resolution screens.
 
 **Thoughts:** People with disabilities need to be supported and one should always create websites with accessability in mind. 
+
+
+### Day 5: Friday June 26, 2020.
+
+**Today's progress:** I'm halfway through the "Flexbox" lesson.
+
+**Thoughts:** CSS really needed this so developers could start creating better looking websites.
