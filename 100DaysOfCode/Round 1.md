@@ -39,3 +39,12 @@ I'm committing this round to do the [FreeCodeCamp.org Full-Stack Certification](
 **Today's progress:** I'm halfway through the "Flexbox" lesson.
 
 **Thoughts:** CSS really needed this so developers could start creating better looking websites.
+
+
+### Day 6: Monday June 29, 2020.
+
+**Today's progress:** 
+
+Learned how to use the flex option, the one that includes flex-grow, flex-shrink and flex-basis.
+
+**Thoughts:** Flexbox is so powerful and so useful. 
