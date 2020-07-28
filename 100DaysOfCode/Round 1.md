@@ -43,8 +43,26 @@ I'm committing this round to do the [FreeCodeCamp.org Full-Stack Certification](
 
 ### Day 6: Monday June 29, 2020.
 
-**Today's progress:** 
-
-Learned how to use the flex option, the one that includes flex-grow, flex-shrink and flex-basis.
+**Today's progress:** Learned how to use the flex option, the one that includes flex-grow, flex-shrink and flex-basis.
 
 **Thoughts:** Flexbox is so powerful and so useful. 
+
+
+### Day 7: Monday June 30, 2020.
+
+**Today's progress:** Ok, so today I found out about a machine learning scholarship from educative.io. I couldn't resist and I signed up for it. It's free for 3 months; I think I can get far within that time. I will continue the freeCodeCamp certification too.
+
+I learned about NumPy arrays and how they upcast and how we can cast them using the astype function.
+
+Learned about NaN to act as a placeholder. And infinitive and minus infinitive. 
+
+Learned how to created a 2-D matrix with NumPy.
+
+
+### Day 8: Monday July 27, 2020.
+
+**Today's progress:** So I decided to restart the 100 days of code after my dad and I got Covid-19. I was asymptomatic but my dad wasn't. It was a long battle but we won. Today is his last day of medicines, we are now in the last stage of recovery. Covid-19 changed my priorities and so I decided to finish my React specialization with Udacity. I will continue the 100 days of code challenge with the Data Structures and Algorithms Nanodegree from Udacity. And will make time for the machine learning course from Educative. 
+
+Im learning python right now and saw zip, enumerate and list comprehensions. 
+
+**Thoughts:** Zip is a great way to pack and unpack lists and tuples into new ones in order of appearance. It is also a great way to transpose matrixes. Enumerate is a nice way of looping through lists and also be able to use the index of the object in the list. List comprehensions simplify code so nicely even if you need to use conditionals. 
