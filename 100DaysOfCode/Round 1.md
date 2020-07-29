@@ -66,3 +66,10 @@ Learned how to created a 2-D matrix with NumPy.
 Im learning python right now and saw zip, enumerate and list comprehensions. 
 
 **Thoughts:** Zip is a great way to pack and unpack lists and tuples into new ones in order of appearance. It is also a great way to transpose matrixes. Enumerate is a nice way of looping through lists and also be able to use the index of the object in the list. List comprehensions simplify code so nicely even if you need to use conditionals. 
+
+
+### Day 9: Tuesday July 28, 2020.
+
+**Today's progress:** Did some exercises working with lists and dictionaries. Saw how to write functions in python, how to properly use the header and body of a function and how to use default arguments. Learned a bit about variable scopes and how to document a function using the Docstrings. Remembered a bit about lambda functions as well. Learned how to ask the user for input and how to handle exceptions and errors with try and except.
+
+**Thoughts:** When working with dictionaries I should use the items() method to pull the key and value from the dictionary in one go. Variables are a bit tricky when using functions in Python. To use variable with a global scope we need to introduce it in the argument of the function and if we want to change it we use what was returned from the function. Documenting is so important so one can remember why one wrote the code like this and to other people so they get familiarized with code they're seeing for the first time. Getting information from the user make whatever we write more dynamic, and when we handle errors and exceptions it makes it have a smooth user experience. 
