@@ -80,3 +80,25 @@ Im learning python right now and saw zip, enumerate and list comprehensions.
 **Today's progress:** Today I reviewed how to open files in python, how to write in them and how we should close it after we're done with it so the memory is freed up. I saw how to import local scripts and how a "main" block can contain some code only into the module where it is. I learned about the extensive standard python library and how to use third party libraries. Learned about the interactive python interpreter and IPython. Also, saw how to create iterators and generators.
 
 **Thoughts:** Reading files and writing in them is so necessary to create dynamic products; and we have to remember to free up the space in memory to keep the program running. Importing modules and sectoring the code creates a better organized work. Libraries are so powerful and let us use functions for many purposes; the community is powerful. Iterators and generators serve their purpose in python; they make the program run efficiently and they are so alike to common functions, the yield command is all the difference. 
+
+
+### Day 11: Thursday July 30, 2020.
+
+**Today's progress:** I worked in the project of the first module of Udacity's Data Structures and Algorithms Nanodegree.
+
+**Thoughts:** It's nice to manipulate data from files and extract whatever information you want from it.
+
+
+### Day 12: Friday July 31, 2020.
+
+**Today's progress:** Kept working on udacity's Data Structures and Algorithms Nanodegree project. I'm almost done. Next, I have to identify the big-O notation for the algorithms I'm creating.
+
+**Thoughts:** Expecting to pass the review in the first try! Wish me luck.
+
+
+### Day 13: Tuesday August 4, 2020.
+
+**Today's progress:** I finished the first project from the Data Structures and Algorithms Nanodegree. I need to wait for the review now. 
+Kept on going and saw the definition of Arrays and the comparison to Python lists. The review of the project came in and had a few suggestions. All suggestions were great by the way. Learned to unpack lists and use them in the format() function directly. I learned that I shouldn't have more the than three levels of loops because it creates a big time-complexity. Learned that when I need to have unique values I should use sets or dictionaries. In theory I already knew that but I didn't put it in practice. Submitted the project again and I'll see the review next morning.
+
+**Thoughts:** I learn more when I get reviewed than by just viewing videos.
