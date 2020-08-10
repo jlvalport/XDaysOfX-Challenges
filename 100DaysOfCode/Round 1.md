@@ -102,3 +102,10 @@ Im learning python right now and saw zip, enumerate and list comprehensions.
 Kept on going and saw the definition of Arrays and the comparison to Python lists. The review of the project came in and had a few suggestions. All suggestions were great by the way. Learned to unpack lists and use them in the format() function directly. I learned that I shouldn't have more the than three levels of loops because it creates a big time-complexity. Learned that when I need to have unique values I should use sets or dictionaries. In theory I already knew that but I didn't put it in practice. Submitted the project again and I'll see the review next morning.
 
 **Thoughts:** I learn more when I get reviewed than by just viewing videos.
+
+
+### Day 14: Monday August 10, 2020.
+
+**Today's progress:** I learned about the concept of linked lists and created some with Python from scratch.
+
+**Thoughts:** Developing the inner workings of a data structures is fascinating... it reveals that complex productive software is created by simple ideas. 
