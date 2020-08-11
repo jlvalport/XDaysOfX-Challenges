@@ -109,3 +109,10 @@ Kept on going and saw the definition of Arrays and the comparison to Python list
 **Today's progress:** I learned about the concept of linked lists and created some with Python from scratch.
 
 **Thoughts:** Developing the inner workings of a data structures is fascinating... it reveals that complex productive software is created by simple ideas. 
+
+
+### Day 15: Tuesday August 11, 2020.
+
+**Today's progress:** I did some exercises of singly linked lists, doubly linked lists.
+
+**Thoughts:** It's simple stuff but requires a pen and paper to make a flow of the variables.
