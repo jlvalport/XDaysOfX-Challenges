@@ -116,3 +116,10 @@ Kept on going and saw the definition of Arrays and the comparison to Python list
 **Today's progress:** I did some exercises of singly linked lists, doubly linked lists.
 
 **Thoughts:** It's simple stuff but requires a pen and paper to make a flow of the variables.
+
+
+### Day 16: Wednesday August 12, 2020.
+
+**Today's progress:** I created some functionality of singly linked lists, including search, remove, pop, insert and size. Then I created the reverse function of a linked list. 
+
+**Thoughts:** The reverse functionality of the linked list was the hardest one...
